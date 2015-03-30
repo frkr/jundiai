@@ -5,8 +5,8 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-
+Site trabalho de faculdade UNISUL para a cidade de [Jundiaí]
+[Jundiaí]:https://frkr.github.io/jundiai
 
 # THANKS
 
@@ -22,6 +22,3 @@ Last Updated: {{ site.time | date:"%Y/%m/%d" }}
 Standards: HTML5, CSS3
 Software: Sublime Text, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
 Components: Modernizr, jQuery, Backstretch.js, Reveal, Foundation Framework
-
-
-
