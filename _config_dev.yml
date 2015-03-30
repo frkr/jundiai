@@ -1,0 +1,11 @@
+#
+# This config-file is only needed for development. Instead of changing the url
+# everytime you work locally on the project, you start both config-files, overwriting
+# the first one with the development variables needed.
+#
+# Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
+
+url: "http://empenhar-frkr.c9.io"
+urlimg: "http://empenhar-frkr.c9.io/images"
+port: "8080"
+host: "0.0.0.0"
