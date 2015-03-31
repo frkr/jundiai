@@ -166,20 +166,6 @@ og_description:                     "Guia Turisticos, Atrações, Entretenimento
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
-
-#        ____  _                      
-#       / __ \(_)________ ___  _______
-#      / / / / / ___/ __ `/ / / / ___/
-#     / /_/ / (__  ) /_/ / /_/ (__  ) 
-#    /_____/_/____/\__, /\__,_/____/  
-#                    /_/              
-#
-# used in _includes/comments.html
-
-#TODO Facebook
-#disqus_shortname: feelingresponsive
-
-
 #      _____                
 #     / ___/____ ___________
 #     \__ \/ __ `/ ___/ ___/
