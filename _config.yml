@@ -16,7 +16,7 @@ slogan: "Jundiaí Regional"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Guia Turisticos, Atrações"
+description: "Guia Turisticos, Atrações, Entretenimento, Utilidades, Turismo, Serra do Japi"
 
 
 # This URL is the main adresse. Don't include a slash at the end.
@@ -152,7 +152,7 @@ og_image:                           "http://empenhar-frkr.c9.io/assets/img/logo.
 og_locale:                          "pt_BR"
 og_type:                            "website"
 og_title:                           "Jundiaí Regional"
-og_description:                     "Guia Turisticos e Atrações Jundiaí Regional"
+og_description:                     "Guia Turisticos, Atrações, Entretenimento, Utilidades, Turismo, Serra do Japi"
 # og_url:                           ""
 # og_site_name:                     ""
 
