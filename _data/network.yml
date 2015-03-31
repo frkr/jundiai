@@ -1,4 +1,13 @@
-- menu_name: "Dankeschön"
+- menu_name: "Parceiros"
+
+- name: "Davi Saranszky Mesquita"
+  url: "https://github.com/frkr"
+  title: "Autor / Código fonte"
+
+- name: "Layout Jekyll Feeling Responsive"
+  url: "https://github.com/Phlow/feeling-responsive"
+  class: ""
+  title: "Feeling Responsive"
 
 - name: "Icons by Daniel Bruce"
   url: "http://entypo.com/"
