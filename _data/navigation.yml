@@ -2,6 +2,15 @@
   url: "/"
   side: left
 
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: Blog
+    url: "/blog/"
+  - title: "Arquivo"
+    url: "/blog/archive/"
+
 - title: "Templates"
   url: "/design/"
   side: left
@@ -27,7 +36,7 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Styles"
   url: "/headers/"
   side: left
   dropdown:
@@ -46,16 +55,6 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: Blog
-    url: "/blog/"
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
 - title: "Pesquisa"
   url: "/pesquisa/"
   side: right
-  
