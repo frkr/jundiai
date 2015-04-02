@@ -35,6 +35,9 @@ format: post
 			</p>
 			{% endif %}
 
+			{% if page.html %}
+			{{ page.html }}
+			{% endif %}
 			<span itemprop="articleSection">
 			{{ content }}
 			</span>
